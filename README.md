@@ -1,1 +1,1 @@
-# Shkola-Algoriym-
+# Shkola-Algoritm-
